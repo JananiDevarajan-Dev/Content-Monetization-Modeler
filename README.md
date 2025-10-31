@@ -1,7 +1,7 @@
 # Content-Monetization-Modeler
 **Content Monetization Modeler**
 
-** Project Overview**
+**Project Overview**
 
 As YouTube creators and media companies increasingly rely on ad revenue, predicting potential earnings is crucial. This project builds a regression model to estimate YouTube ad revenue for individual videos using performance and contextual features.
 
